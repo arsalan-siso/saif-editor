@@ -65,4 +65,9 @@ cd saif-editor
 sudo apt install geany
 
 # 3. تشغيل المحرر
+# 1. فك الضغط
+tar -xzf saif-editor-core.tar.gz
+cd saif-editor
+
+# 2. تشغيل المحرر
 ./run.sh
