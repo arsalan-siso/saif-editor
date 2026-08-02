@@ -54,10 +54,15 @@
 | 📝 **إكمال الكود** | إكمال تلقائي للكلمات المفتاحية |
 
 ---
-
-## 🛠️ المتطلبات
+## 🚀 التشغيل السريع
 
 ```bash
-# نظام Linux (Kali/Ubuntu/Debian)
-# فقط قم بتثبيت Geany
+# 1. تحميل المشروع
+git clone https://github.com/arsalan-siso/saif-editor.git
+cd saif-editor
+
+# 2. تثبيت المتطلبات
 sudo apt install geany
+
+# 3. تشغيل المحرر
+./run.sh
